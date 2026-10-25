@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Compiled Output
+server/dist/
+
+# Frontend Assets & Bundles
+client/chat-frontend-npm/
+
+# Environment Variables
+server/config/
+*.env
+.env
+.env.*
+
+# Logs & Debug
+*.log
+npm-debug.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
